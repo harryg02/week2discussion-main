@@ -30,12 +30,19 @@ li a {
 }
 
 section {
-  padding: 10px, 20px;
+  padding: 30px;
 }
 
 h1 {
   font-family: "Wix Madefor Display", sans-serif;
   font-weight: 900;
   font-size: 40px;
+  padding: 20px 0;
 }
 
+h2 {
+  font-family: "Wix Madefor Display", sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  padding: 20px 0;
+}
