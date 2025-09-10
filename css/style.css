@@ -1,6 +1,38 @@
+body {
+  background-color: #151519;
+  color: aliceblue;
+  font-family: Inter, sans-serif;
+  margin: 30px, 30px;
+}
+
 nav {
   width: 100%;
+  padding: 30px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav li {
   font-size: 19px;
   padding: 20px;
-  font: "Wix Madefor Display", sans-serif;
+  font-family: "Wix Madefor Display", sans-serif;
+  display: inline-block;
 }
+
+nav .active {
+  color: lightcoral;
+}
+
+li a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+h1 {
+  font-family: "Wix Madefor Display", sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+}
+
