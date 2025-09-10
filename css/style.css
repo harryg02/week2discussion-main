@@ -2,7 +2,6 @@ body {
   background-color: #151519;
   color: aliceblue;
   font-family: Inter, sans-serif;
-  margin: 30px, 30px;
 }
 
 nav {
@@ -28,6 +27,10 @@ nav .active {
 li a {
   text-decoration: none;
   color: aliceblue;
+}
+
+section {
+  padding: 10px, 20px;
 }
 
 h1 {
